@@ -1,29 +1,14 @@
 @extends ('layout.main')
 <body class="is-preload">
 
-		<!-- Header -->
-			<header id="header">
-				<a class="logo" href="index.html">Industrious</a>
-				<nav>
-					<a href="#menu">Menu</a>
-				</nav>
-			</header>
-
-		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
-				</ul>
-			</nav>
+		
 
 		<!-- Banner -->
 			<section id="banner">
 				<div class="inner">
-					<h1>Industrious</h1>
-					<p>A responsive business oriented template with a video background<br />
-					designed by <a href="https://templated.co/">TEMPLATED</a> and released under the Creative Commons License.</p>
+					<p>Upto 80.000 free channels</p>
+					<h1>Mina IpTV</h1>
+				 <h3>Get IpTv subscription and get access to all your favorite channels</h3>
 				</div>
 				<video autoplay loop muted playsinline src="images/banner.mp4"></video>
 			</section>
@@ -32,38 +17,37 @@
 			<section class="wrapper">
 				<div class="inner">
 					<header class="special">
-						<h2>Sem turpis amet semper</h2>
-						<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor.</p>
+						<h2>WATCH UP TO 80.000 CHANNELS FOR FREE</h2>
 					</header>
 					<div class="highlights">
 						<section>
 							<div class="content">
 								<header>
 									<a href="#" class="icon fa-vcard-o"><span class="label">Icon</span></a>
-									<h3>Feugiat consequat</h3>
+									<h3>Single & Multiroom</h3>
 								</header>
-								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
+								<p>We provide regular (1 connection) and Multiroom (2 Connections) Service. Select Regular or Multiroom service as you need. IPTVFarm service supports: M3U, MAG and Enigma2 formats.</p>
 							</div>
 						</section>
 						<section>
 							<div class="content">
 								<header>
-									<a href="#" class="icon fa-files-o"><span class="label">Icon</span></a>
-									<h3>Ante sem integer</h3>
+									<a href="#"  class="icon fa-television"><span class="label">Icon</span></a>
+									<h3>TV Channels & VODs</h3>
 								</header>
-								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
+								<p>We provide the most complete collection of TV Channels VODs. By purchasing a service you get access to over 13,200 TV Channels and Over 50,000 VODs. We update the list continuously.</p>
 							</div>
 						</section>
 						<section>
 							<div class="content">
 								<header>
-									<a href="#" class="icon fa-floppy-o"><span class="label">Icon</span></a>
-									<h3>Ipsum consequat</h3>
+									<a href="#" class="icon fa-handshake-o"><span class="label">Icon</span></a>
+									<h3>IPTV Resellers</h3>
 								</header>
-								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
+								<p>Join the IPTV reseller program and provide the best IPTV service for your customers. Be an IPTVFarm partner and you can satisfy your customers and make a nice profit for yourself.</p>
 							</div>
 						</section>
-						<section>
+						<!-- <section>
 							<div class="content">
 								<header>
 									<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
@@ -89,7 +73,7 @@
 								</header>
 								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
 							</div>
-						</section>
+						</section> -->
 					</div>
 				</div>
 			</section>
