@@ -17,10 +17,7 @@ Route::get('/', function () {
     return view('index');
 });
 
-// Route::get('/elements', function () {
-//     return view('index');
-// });
-
 Route::get('/elements', 'HomeController@elements')->name('elements');
 Route::get('/freetest', 'HomeController@freetest')->name('freetest');
+Route::post('/clients/create', 'HomeController@store')->name('store');
 

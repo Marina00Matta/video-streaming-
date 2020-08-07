@@ -34,7 +34,8 @@
 							<h2>Sign Up For Free</h2>
 						</header>
 			
-									<form method="post" action="#">
+									<form  method="POST" action="{{route('store')}}">
+										@csrf 
 										<div class="row gtr-uniform">
 											<div class="col-6 col-12-xsmall">
 											<h3> Name</h3>
@@ -47,25 +48,24 @@
 
 											
 											<div class="col-6 col-12-xsmall">
-												<h3> MAC Address</h3>
-												<input type="text" name="name" id="name" value="" placeholder="MAC Address" />
+											<h3> IP Address</h3>
+												<input type="text" name="ipaddress" id="ip" value="" placeholder="IP Address" />
 											</div>
 											<div class="col-6 col-12-xsmall">
-												<h3> IP Address</h3>
-												<input type="email" name="email" id="email" value="" placeholder="IP Address" />
+											<h3> MAC Address</h3>
+												<input type="text" name="macaddress" id="mac" value="" placeholder="MAC Address" />
 											</div>
+											<div class="col-6 col-12-xsmall">
+											<h3> Phone</h3>
+												<input type="text" name="phone" id="mac" value="" placeholder="Phone Number" />
+											</div>
+											
+											
 											
 
 											<!-- Break -->
 											<div class="col-12">
-											<h3>choose Your Package</h3>
-												<select name="category" id="category">
-													<option value="">- Select -</option>
-													<option value="alpha">Package one</option>
-													<option value="beta">Package two</option>
-													<option value="gamma">Package three</option>
-													
-												</select>
+											
 </div>
 											<div class="col-12">
 												<ul class="actions">
