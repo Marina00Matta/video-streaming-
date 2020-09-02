@@ -27,6 +27,32 @@
 			
 
 		<!-- Main -->
+		<section id="main" class="wrapper">
+				<div class="inner">
+					<div class="content">
+
+					<!-- Elements -->
+					
+
+								<!-- Text -->
+									<h2>YOU CAN TRY IT NOW FOR FREE FOR 24 HOURS</h2>
+									<p>
+										SIGN UP FOR FREE TO ENJOY A COLLECTION OF MANY CHANNELS FOR 24 HOURS TO TEST OUR SERVICE
+										<ul class="actions">
+										<li><a href="/checking" class="button primary">FREE TEST</a></li>
+										<!-- <li><a href="#" class="button">Default</a></li> -->
+									</ul>
+									</p>
+									
+								
+						</div>
+					</div>
+			</section>	
+
+			<div class="img-container">				
+					<img src="images/pic04.jpg" alt="" />
+			</div>
+
 			<section id="main" class="wrapper">
 				<div class="inner">
 					<div class="content">

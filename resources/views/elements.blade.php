@@ -12,99 +12,42 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
+					<li><a href="index.blade.php">Home</a></li>
+					<li><a href="elements.blade.php">Elements</a></li>
+					<li><a href="generic.blade.php">Generic</a></li>
 				</ul>
 			</nav>
 
 		<!-- Heading -->
 			<div id="heading" >
-				<h1>Elements</h1>
+				<h1>About us</h1>
 			</div>
 
 		<!-- Main -->
 			<section id="main" class="wrapper">
 				<div class="inner">
 					<div class="content">
-
+<br>
 					<!-- Elements -->
 						<div class="row">
 							<div class="col-6 col-12-medium">
-
+<br>
 								<!-- Text -->
-									<h3>Text</h3>
-									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this
-									is <em>emphasized</em>.
-									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-									This is <u>underlined</u>, this is <code>code</code>, and this is a <a href="#">link</a>.</p>
-									<h2>Heading Level 2</h2>
-									<h3>Heading Level 3</h3>
-									<h4>Heading Level 4</h4>
-									<h5>Heading Level 5</h5>
-									<h6>Heading Level 6</h6>
-									<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem
-									non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed
-									ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing.</p>
+									<h2>About IPTV</h2>
+<br>									
+									<p>
+										Here in IPTVFarm, we have gathered the biggest collection of TV Channels in SD, HD & FHD quality by helping of the most experienced experts.
+										You can also find a large collection of Movies & Series in the VOD category, it’s about 50,000 VODs and new ones will be added to the service too. Updating is free and automatic.
+										We have our experts to continually monitor playlist to modify and fix issues in the line and usually, we replace new and better quality Channels with the old ones.
+										We serve the worldwide and where ever you have access to internet you can enjoy IPTVFarm service.
+										Smartphones, Tablets, Smart TVs, Android boxes, Mag devices, and all IPTV players can handle the IPTVFarm playlist.
+										Just get a free test account then you can purchase for the service and access your favorite media.
+									</p>
 
 								<!-- Lists -->
-									<h3>Lists</h3>
-									<div class="row">
-										<div class="col-6 col-12-small">
-											<h4>Unordered</h4>
-											<ul>
-												<li>Dolor pulvinar amet etiam.</li>
-												<li>Sagittis adipiscing lorem eleifend.</li>
-												<li>Felis enim feugiat viverra.</li>
-											</ul>
-											<h4>Alternate</h4>
-											<ul class="alt">
-												<li>Dolor pulvinar amet etiam.</li>
-												<li>Sagittis adipiscing lorem eleifend.</li>
-												<li>Felis enim feugiat viverra.</li>
-											</ul>
-										</div>
-										<div class="col-6 col-12-small">
-											<h4>Ordered</h4>
-											<ol>
-												<li>Dolor pulvinar sed etiam.</li>
-												<li>Etiam vel lorem sed amet.</li>
-												<li>Felis enim feugiat viverra.</li>
-												<li>Dolor pulvinar magna etiam.</li>
-												<li>Etiam vel felis at sed viverra.</li>
-												<li>Felis enim feugiat amet dolore.</li>
-												<li>Dolor pulvinar lorem etiam.</li>
-												<li>Etiam vel felis at lorem amet.</li>
-												<li>Felis enim feugiat viverra.</li>
-												<li>Dolor pulvinar magna etiam.</li>
-												<li>Etiam vel felis sed viverra.</li>
-											</ol>
-										</div>
-									</div>
-									<h4>Definition</h4>
-									<dl>
-										<dt>Alpha</dt>
-										<dd>
-											<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum.
-											Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.
-											Integer ac pellentesque praesent.</p>
-										</dd>
-										<dt>Beta</dt>
-										<dd>
-											<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum.
-											Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.
-											Integer ac pellentesque praesent.</p>
-										</dd>
-										<dt>Gamma</dt>
-										<dd>
-											<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum.
-											Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.
-											Integer ac pellentesque praesent.</p>
-										</dd>
-									</dl>
-
+									
 								<!-- Icons -->
-									<h3>Icons</h3>
+									<!-- <h3>Icons</h3>
 									<ul class="icons">
 										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -115,15 +58,12 @@
 										<li><a href="#" class="icon fa-apple"><span class="label">Apple</span></a></li>
 										<li><a href="#" class="icon fa-windows"><span class="label">Windows</span></a></li>
 										<li><a href="#" class="icon fa-500px"><span class="label">500px</span></a></li>
-									</ul>
+									</ul> -->
 
 								<!-- Actions -->
-									<h3>Actions</h3>
-									<ul class="actions">
-										<li><a href="#" class="button primary">Default</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-									<ul class="actions">
+								
+									
+									<!-- <ul class="actions">
 										<li><a href="#" class="button primary small">Small</a></li>
 										<li><a href="#" class="button small">Small</a></li>
 									</ul>
@@ -152,215 +92,57 @@
 												<li><a href="#" class="button small fit">Small</a></li>
 											</ul>
 										</div>
-									</div>
+									</div> -->
 
 								<!-- Blockquote -->
-									<h3>Blockquote</h3>
-									<blockquote>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-									porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
-									Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra. Lorem ipsum
-									dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis
-									iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac sed amet praesent. Nunc
-									lacinia ante nunc ac gravida.</blockquote>
+									
 
 								<!-- Table -->
-									<h3>Table</h3>
-									<h4>Default</h4>
+									<h3></h3>
+									<h4></h4>
 									<div class="table-wrapper">
-										<table>
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Alpha</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>10.00</td>
-												</tr>
-												<tr>
-													<td>Beta</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>20.00</td>
-												</tr>
-												<tr>
-													<td>Gamma</td>
-													<td>Morbi faucibus arcu accumsan lorem.</td>
-													<td>30.00</td>
-												</tr>
-												<tr>
-													<td>Delta</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>40.00</td>
-												</tr>
-												<tr>
-													<td>Epsilon</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>50.00</td>
-												</tr>
-												<tr>
-													<td>Zeta</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>60.00</td>
-												</tr>
-												<tr>
-													<td>Eta</td>
-													<td>Morbi faucibus arcu accumsan lorem.</td>
-													<td>70.00</td>
-												</tr>
-												<tr>
-													<td>Theta</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>80.00</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>360.00</td>
-												</tr>
-											</tfoot>
-										</table>
 									</div>
-									<h4>Alternate</h4>
+									<h4></h4>
 									<div class="table-wrapper">
-										<table class="alt">
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Alpha</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>10.00</td>
-												</tr>
-												<tr>
-													<td>Beta</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>20.00</td>
-												</tr>
-												<tr>
-													<td>Gamma</td>
-													<td>Morbi faucibus arcu accumsan lorem.</td>
-													<td>30.00</td>
-												</tr>
-												<tr>
-													<td>Delta</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>40.00</td>
-												</tr>
-												<tr>
-													<td>Epsilon</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>50.00</td>
-												</tr>
-												<tr>
-													<td>Zeta</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>60.00</td>
-												</tr>
-												<tr>
-													<td>Eta</td>
-													<td>Morbi faucibus arcu accumsan lorem.</td>
-													<td>70.00</td>
-												</tr>
-												<tr>
-													<td>Theta</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>80.00</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>360.00</td>
-												</tr>
-											</tfoot>
-										</table>
+										
 									</div>
 
 							</div>
 							<div class="col-6 col-12-medium">
 
 								<!-- Buttons -->
-									<h3>Buttons</h3>
-									<ul class="actions">
-										<li><a href="#" class="button primary">Primary</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button primary large">Large</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button small">Small</a></li>
-										<li><a href="#" class="button wide">Wide</a></li>
-									</ul>
-									<ul class="actions fit">
-										<li><a href="#" class="button primary fit">Fit</a></li>
-										<li><a href="#" class="button fit">Fit</a></li>
-									</ul>
-									<ul class="actions fit">
-										<li><a href="#" class="button primary fit small">Fit + Small</a></li>
-										<li><a href="#" class="button fit small">Fit + Small</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button primary icon fa-search">Icon</a></li>
-										<li><a href="#" class="button icon fa-download">Icon</a></li>
-									</ul>
-									<ul class="actions">
-										<li><span class="button primary disabled">Primary</span></li>
-										<li><span class="button disabled">Default</span></li>
-									</ul>
-
+								<div class="image">
+									<br>
+									<br>
+									<br>
+									<br>
+									<br>
+										<img src="images/pic01.jpg" alt="" />
+									</div>
 								<!-- Form -->
 									
 
 								<!-- Image -->
-									<h3>Image</h3>
-									<h4>Fit</h4>
+									<h3></h3>
+									<h4></h4>
 									<span class="image fit"></span>
 									<div class="box alt">
 										<div class="row gtr-50 gtr-uniform">
 										</div>
 									</div>
-									<h4>Left &amp; Right</h4>
+									<h4></h4>
 									<p>
 										<span class="image left"></span>
-										Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget.
-										tempus euismod. Magna et cursus lorem faucibus vestibulum. Blandit adipiscing eu
-										felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
-										praesent tincidunt felis sagittis eget. tempus euismod tempus. Vestibulum ante ipsum
-										primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-										adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis
-										sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
-										Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.
-										Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida lorem ipsum dolor
-										sit amet dolor feugiat consequat.
+										<div class="image">
+										<!-- <img src="images/pic01.jpg" alt="" /> -->
+									</div>
 									</p>
 									<p>
 										<span class="image right"></span>
-										Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget.
-										tempus euismod. Magna et cursus lorem faucibus vestibulum. Blandit adipiscing eu
-										felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
-										praesent tincidunt felis sagittis eget. tempus euismod tempus. Vestibulum ante ipsum
-										primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-										adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis
-										sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
-										Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.
-										Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida lorem ipsum dolor
-										sit amet dolor feugiat consequat.
+										
 									</p>
 
 								<!-- Box -->
-									<h3>Box</h3>
 									
 								<!-- Preformatted Code -->
 

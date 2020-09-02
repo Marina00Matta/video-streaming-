@@ -1,5 +1,6 @@
 @extends ('layout.main')
 <body class="is-preload">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 		
 
@@ -17,43 +18,107 @@
 			<section class="wrapper">
 				<div class="inner">
 					<header class="special">
-						<h2>WATCH UP TO 80.000 CHANNELS FOR FREE</h2>
+						<h1>WATCH UP TO 80.000 CHANNELS FOR FREE</h1>
+						<br>
+						<h2>Check our monthly and yearly Plans</h2>
+
 					</header>
 					<div class="highlights">
-						<section>
+						
+					<section>
 							<div class="content">
 								<header>
 									<a href="#" class="icon fa-vcard-o"><span class="label">Icon</span></a>
-									<h3>Single & Multiroom</h3>
+									<h3>One Month</h3>
 								</header>
-								<p>We provide regular (1 connection) and Multiroom (2 Connections) Service. Select Regular or Multiroom service as you need. IPTVFarm service supports: M3U, MAG and Enigma2 formats.</p>
+								<p> •Over 13,200 TV Channels</p>
+								<p>	• Over 50,000 VODs</p>
+								<p>	• TVs, Movies, Series</p>
+								<p>• 80% EPG Enabled</p>
+								<p>• SD, HD, Full HD, 4K & 3D</p>
+								<p>• 99.99% Uptime Server</p>
+								<p>• M3U & M3U8 Playlist</p>
+								<p>• Mag Device & Enigma2</p>
+								<p>• Categorized Playlist</p>
+								<p>• Customizable Playlist</p>
+								<p>• Free 24 Hours Test</p>
+								<p>• Fast Support</p>
+								<p>• Free & Auto Update</p>
+								<br>
+								<input type="submit" value="Buy Now" class="primary" />
+
 							</div>
 						</section>
 						<section>
 							<div class="content">
 								<header>
 									<a href="#"  class="icon fa-television"><span class="label">Icon</span></a>
-									<h3>TV Channels & VODs</h3>
+									<h3>THREE MONTH</h3>
 								</header>
-								<p>We provide the most complete collection of TV Channels VODs. By purchasing a service you get access to over 13,200 TV Channels and Over 50,000 VODs. We update the list continuously.</p>
+								<p> •Over 13,200 TV Channels</p>
+								<p>	• Over 50,000 VODs</p>
+								<p>	• TVs, Movies, Series</p>
+								<p>• 80% EPG Enabled</p>
+								<p>• SD, HD, Full HD, 4K & 3D</p>
+								<p>• 99.99% Uptime Server</p>
+								<p>• M3U & M3U8 Playlist</p>
+								<p>• Mag Device & Enigma2</p>
+								<p>• Categorized Playlist</p>
+								<p>• Customizable Playlist</p>
+								<p>• Free 24 Hours Test</p>
+								<p>• Fast Support</p>
+								<p>• Free & Auto Update</p>
+								<br>
+								<input type="submit" value="Buy Now" class="primary" />
 							</div>
 						</section>
+
 						<section>
 							<div class="content">
 								<header>
 									<a href="#" class="icon fa-handshake-o"><span class="label">Icon</span></a>
-									<h3>IPTV Resellers</h3>
+									<h3>SIX MONTH</h3>
 								</header>
-								<p>Join the IPTV reseller program and provide the best IPTV service for your customers. Be an IPTVFarm partner and you can satisfy your customers and make a nice profit for yourself.</p>
+								<p> •Over 13,200 TV Channels</p>
+								<p>	• Over 50,000 VODs</p>
+								<p>	• TVs, Movies, Series</p>
+								<p>• 80% EPG Enabled</p>
+								<p>• SD, HD, Full HD, 4K & 3D</p>
+								<p>• 99.99% Uptime Server</p>
+								<p>• M3U & M3U8 Playlist</p>
+								<p>• Mag Device & Enigma2</p>
+								<p>• Categorized Playlist</p>
+								<p>• Customizable Playlist</p>
+								<p>• Free 24 Hours Test</p>
+								<p>• Fast Support</p>
+								<p>• Free & Auto Update</p>
+								<br>
+								<input type="submit" value="Buy Now" class="primary" />
+
 							</div>
 						</section>
-						<!-- <section>
+					 
+						<section>
 							<div class="content">
 								<header>
 									<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
-									<h3>Interdum gravida</h3>
+									<h3>Twelve month</h3>
 								</header>
-								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
+								<p> •Over 13,200 TV Channels</p>
+								<p>	• Over 50,000 VODs</p>
+								<p>	• TVs, Movies, Series</p>
+								<p>• 80% EPG Enabled</p>
+								<p>• SD, HD, Full HD, 4K & 3D</p>
+								<p>• 99.99% Uptime Server</p>
+								<p>• M3U & M3U8 Playlist</p>
+								<p>• Mag Device & Enigma2</p>
+								<p>• Categorized Playlist</p>
+								<p>• Customizable Playlist</p>
+								<p>• Free 24 Hours Test</p>
+								<p>• Fast Support</p>
+								<p>• Free & Auto Update</p>
+								<br>
+								<input type="submit" value="Buy Now" class="primary" />
 							</div>
 						</section>
 						<section>
@@ -65,6 +130,7 @@
 								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
 							</div>
 						</section>
+						
 						<section>
 							<div class="content">
 								<header>
@@ -73,16 +139,143 @@
 								</header>
 								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
 							</div>
-						</section> -->
+						</section> 
 					</div>
 				</div>
 			</section>
 
+			<section>
+			<div class="container">
+	<div class="row">
+	<ul>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab  item">
+			<div class="folded-corner service_tab_1">
+				<div class="text">
+					<i class="icon icon fa-vcard-o fa-5x fa-icon-image"></i>
+						<p class="item-title">
+								<h3> Single & Multiroom</h3>
+							</p><!-- /.item-title -->
+					<p>
+					Join the IPTVFarm reseller program and provide the best IPTV service for your customers. Be an IPTVFarm partner and you can satisfy your customers and make a nice profit for yourself.
+					</p>
+				</div>
+			</div>
+	    </div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+			<div class="folded-corner service_tab_1">
+				<div class="text">
+					<i class="fa icon fa-television fa-5x fa-icon-image" ></i>
+						<p class="item-title">
+							<h3> TV Channels & VODs</h3>
+						</p><!-- /.item-title -->
+						<p>
+						Join the IPTVFarm reseller program and provide the best IPTV service for your customers. Be an IPTVFarm partner and you can satisfy your customers and make a nice profit for yourself.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+			<div class="folded-corner service_tab_1">
+				<div class="text">
+					<i class="icon fa-handshake-o fa-5x fa-icon-image"></i>
+						<p class="item-title">
+							<h3>IPTVFarm Resellers</h3>
+						</p><!-- /.item-title -->
+					<p>
+					Join the IPTVFarm reseller program and provide the best IPTV service for your customers.
+					 Be an IPTVFarm partner and you can satisfy your customers and make a nice profit for yourself.
+				</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+			<div class="folded-corner service_tab_1">
+				<div class="text">
+					<i class="icon fa-play-circle fa-5x fa-icon-image"></i>
+						<p class="item-title">
+							<h3> Multiple devices support </h3>
+						</p><!-- /.item-title -->
+					<p>
+					Join the IPTVFarm reseller program and provide the best IPTV service for your customers. Be an IPTVFarm partner and you can satisfy your customers and make a nice profit for yourself
+				</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+			<div class="folded-corner service_tab_1">
+			<div class="text">
+				<i class="icon fas fa-star fa-5x fa-icon-image"></i>
+					<p class="item-title">
+						<h3> Free 24 Hours Test Line </h3>
+					</p><!-- /.item-title -->
+					<p>
+						This is an amazing set of animated accordions based completely on CSS. They come oriented both vertically and horizontally in order to fit properly in your project. In order to see the slides, 
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+			<div class="folded-corner service_tab_1">
+				<div class="text">
+					<i class="icon fas fa-cogs fa-5x fa-icon-image"></i>
+						<p class="item-title">
+							<h3> Continuously Updating </h3>
+						</p><!-- /.item-title -->
+					<p>
+						This is an amazing set of animated accordions based completely on CSS. They come oriented both vertically and horizontally in order to fit properly in your project. In order to see the slides, 
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+				<div class="folded-corner service_tab_1">
+					<div class="text">
+						<i class="fa fa-money fa-5x fa-icon-image"></i>
+							<p class="item-title">
+								<h3> Varies Plans & Best Price </h3>
+							</p><!-- /.item-title -->
+						<p>
+							This is an amazing set of animated accordions based completely on CSS. They come oriented both vertically and horizontally in order to fit properly in your project. In order to see the slides, 
+						</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 Services-tab item">
+			<div class="folded-corner service_tab_1">
+				<div class="text">
+					<i class="icon fas fa-podcast fa-5x fa-icon-image"></i>
+						<p class="item-title">
+							<h3> + 50,000 VODs </h3>
+						</p><!-- /.item-title -->
+					<p>
+						This is an amazing set of animated accordions based completely on CSS. They come oriented both vertically and horizontally in order to fit properly in your project. In order to see the slides, 
+					</p>
+				</div>
+			</div>
+		</div>
+	   </ul>
+	</div>
+</div>
+
+  
+  
+  
+
+			</section>
+        
 		<!-- CTA -->
 			<section id="cta" class="wrapper">
 				<div class="inner">
-					<h2>Curabitur ullamcorper ultricies</h2>
-					<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing sed feugiat eu faucibus. Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida.</p>
+					<h3>We have gathered the largest TV Channels Collection to one single Playlist at a nice and reasonable price.
+					IPTVFarm TV Channel list includes: Sport, News, Shows, Music, Children, Family, Movies, Series, Adult and more.</h3>
+					<div class="col-12" >
+												<ul class="actions">
+													<li><input type="submit" value="24 Hours Free Test" class="center" /></li>
+													<li><input type="submit" value="See Plans and Prices" class="primary" /></li>
+												</ul>
+											</div>
+					<h3>In addition, we have added a large number of Series, Movies, and other videos to the service.
+					 All of this with no extra fee or addition on price.</h3>
 				</div>
 			</section>
 
