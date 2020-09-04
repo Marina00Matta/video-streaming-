@@ -63,15 +63,15 @@ class HomeController extends Controller
  
         public function checkemail(Request $request){
     
-            session(['email'=> $request]);
-                dd(session([$request]));
-    // if($client = Client::where('email', '=', $request->email)->first()){
+            session($request->email);
+                // dd($request->email);
+    if($client = Client::where('email', 'LIKE', $request->email)){
     
-    //     // redirect('index');
-    // }
-    // if($client === null)  {
-    //     redirect('freetest');
-    // }
+        redirect('index');
+    }
+    if($client === null)  {
+        redirect('freetest');
+    }
     
     }
     
